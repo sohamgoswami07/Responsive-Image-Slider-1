@@ -1,5 +1,5 @@
 # Responsive Image Slider 1
-Trending web image slider in easy way with some simple codes. Fully responsive comfortable with all kind of devices.
+This project is a fully responsive image slider that adjusts seamlessly to different screen sizes and supports touch gestures for an optimal user experience across devices. The slider features smooth transitions, navigation controls, and customizable options, making it a versatile component for modern web applications.
 ![Screenshot (15)](https://github.com/sohamgoswami07/responsive-image-slider-1/assets/65434681/1201ed21-728b-43ff-9be3-2059ec57ecf1)
 
 # Language are used
