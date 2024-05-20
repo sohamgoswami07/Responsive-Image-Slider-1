@@ -189,22 +189,3 @@ body {
 .navigation-btn .next-btn img {
     transform: translateX(-20px);
 }
-
-/* Footer section */
-
-.footer {
-    position: relative;
-    height: 12vh;
-    width: auto;
-    text-align: center;
-    justify-content: center;
-    background-color: #252525;
-    overflow-x: hidden;
-}
-
-.footer p, a {
-    padding: 2vh;
-    text-decoration: none;
-    color: #eee;
-    opacity: 0.75;
-}
